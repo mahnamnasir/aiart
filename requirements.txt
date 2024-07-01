@@ -1,0 +1,4 @@
+flet==0.23.2
+openai==1.35.7
+openai_whisper==20231117
+PyAudio==0.2.14
